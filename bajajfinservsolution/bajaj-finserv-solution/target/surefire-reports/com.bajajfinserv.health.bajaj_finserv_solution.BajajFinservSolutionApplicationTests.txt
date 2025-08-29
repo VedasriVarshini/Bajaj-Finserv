@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.bajajfinserv.health.bajaj_finserv_solution.BajajFinservSolutionApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.964 s -- in com.bajajfinserv.health.bajaj_finserv_solution.BajajFinservSolutionApplicationTests
